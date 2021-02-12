@@ -2,3 +2,6 @@ body{
 background-image: url(hatterkocka.png);
 color:#443507
 }
+p{
+border: 10px solid;
+}
